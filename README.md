@@ -8,7 +8,7 @@ A command-line financial calculator written in C. This code provides common fina
 2. Loan EMI Calculator
 3. Present Value Calculator
      1. Single future amount
-     2. Annuity (regular payments) 
+     2. Annuity (regular payments)
 4.Future Value of Regular Deposits
 
 It also has simple CLI menu interface, input validation, ANSI terminal colors for better readability
