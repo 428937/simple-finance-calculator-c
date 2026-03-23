@@ -15,11 +15,12 @@ It also has simple CLI menu interface, input validation, ANSI terminal colors fo
 
 # Requirements
 
-C compiler (GCC / Clang)
-Terminal supporting ANSI colors
+C compiler (GCC / Clang),
+Terminal supporting ANSI colors,
 math library (-lm)
 
 # Compilation
 
 Compile using:
+
 gcc main.c -lm -o finance-toolkit-c
