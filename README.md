@@ -4,12 +4,12 @@ A command-line financial calculator written in C. This code provides common fina
 
 # Features:
 
-Compound Interest Calculator
-Loan EMI Calculator
-Present Value Calculator
+1) Compound Interest Calculator
+2) Loan EMI Calculator
+3) Present Value Calculator
      1. Single future amount
      2. Annuity (regular payments)
-Future Value of Regular Deposits
+4) Future Value of Regular Deposits
 
 It also has simple CLI menu interface, input validation, ANSI terminal colors for better readability
 
